@@ -1,0 +1,43 @@
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyo
+*.pyd
+app/static/media/*
+.env
+# Django-related
+*.log
+*.sqlite3
+db.sqlite3
+/media/
+*.pot
+*.pyc
+
+# VSCode-related
+.vscode/
+
+# Environment variables
+.env
+*.env
+
+# Virtual environment
+venv/
+venv.bak/
+*.env/
+
+# Dependency directories
+node_modules/
+
+# Mac OS related
+.DS_Store
+
+# Windows related
+Thumbs.db
+
+# Backup files
+*~
+# Ignore media directory where images, files, etc. are stored
+/media/
+/proflie_picture/
